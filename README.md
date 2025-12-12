@@ -1,40 +1,35 @@
-<img src="https://holbertonschool.fr/wp-content/uploads/2023/06/holberton-school-logo.png" align="right" width="180" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=MAXIM&fontSize=90&fontAlignY=38&animation=fadeIn&fontColor=ffffff" />
 
-# Salut, je suis Maxim 👨‍💻  
-**Étudiant en 1ʳᵉ année – Holberton School France**  
-Promotion 2025–2027 | Spécialisation Full-Stack / DevOps / IA  
+<br><br>
 
-Actuellement en train de devenir un vrai ninja du code, un commit à la fois.
-
-### Mes IBM Certifications (partenariat Holberton × IBM)
-| Certificat                          | Statut          | Preuve                                                     |
-|-------------------------------------|-----------------|------------------------------------------------------------|
-| Introduction to Open Source         | ✅ Validé       | ![OSS](certificates-trimester-1/certificate-oss.png)       |
-| Agile Explorer                      | 🔄 En cours     | (bientôt)                                                  |
-| Cloud Computing Foundations         | 🔜 Prochainement|                                                            |
-
-Tous les badges sont vérifiables ici → [skills.yourlearning.ibm.com/profile/...](https://skills.yourlearning.ibm.com) (lien public dès le 1er badge)
-
-### Mes stats GitHub en live (addict du commit)
 <p align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maxim880000&theme=tokyonight"/>
- <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maxim880000&theme=tokyonight"/>
- <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maxim880000&theme=tokyonight"/>
- <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=maxim880000&theme=tokyonight"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=FF2E63&center=true&vCenter=true&width=600&lines=Holberton+School+France+%E2%80%A2+1%C3%A8re+ann%C3%A9e;Full-Stack+%7C+DevOps+%7C+IA;IBM+Certifications+en+cours...;Talk+is+cheap.+Show+me+the+code." />
+</p>
+
+<br><br><br>
+
+<p align="center">
+  <img src="https://github.com/maxim880000/maxim880000/blob/main/holbertonschool-france-certificates-ibm/certificates-trimester-1/certificate-oss.png?raw=true" width="700" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maxim880000&theme=tokyonight&hide_border=true&background=0D1117&stroke=8b5cf6&ring=ff2e63&fire=ff2e63&currStreakLabel=ff2e63" />
+  <img src="https://github.com/maxim880000/maxim880000/blob/main/certificates-trimester-1/certificate-agile.png?raw=true" width="700" />
 </p>
 
-### Tech Stack en cours d'acquisition cette année
-<img src="https://skillicons.dev/icons?i=c,bash,linux,git,github,docker,vscode,python,js,html,css,mysql&perline=8" />
+<br><br><br><br>
 
-### Où me trouver
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Maxim-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/ton-profil)
-[![Email](https://img.shields.io/badge/Email-maxim%40holbertonstudents.com-red?logo=gmail&logoColor=white&style=flat-square)](mailto:maxim@holbertonstudents.com)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maxim880000&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&count_private=true&include_all_commits=true" />
+</p>
 
-> « Talk is cheap. Show me the code. » – Linus Torvalds  
-> (et moi je montre les deux 😎)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maxim880000&theme=tokyonight&hide_border=true&border_radius=15&fire=FF2E63&ring=FF2E63&currStreakLabel=FF2E63" />
+</p>
 
-Dernière mise à jour : décembre 2025
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,bash,git,github,linux,docker,python,js,html,css,mysql,vscode&perline=10&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=footer" />
+</p>
