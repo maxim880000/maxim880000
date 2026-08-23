@@ -5,18 +5,6 @@
 
 </div>
 
----
-
-## 👋 À propos de moi
-
-Développeur **Full Stack & AI Agent** basé en France, actuellement en formation à **Holberton School** (1ère année) et fondateur de **[WEBNOVATE](mailto:maximdutruel@gmail.com)**, mon activité d'auto-entrepreneur.
-
-Je conçois des **solutions web sur-mesure** et des **agents IA** pour des clients aux besoins variés : restaurants, fast-foods, salons de beauté, et toute entreprise souhaitant automatiser ses processus.
-
-> *"Je m'adapte à chaque client, chaque stack, chaque défi."*
-
----
-
 ## 🧠 Ce que je fais
 
 ```
