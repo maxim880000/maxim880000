@@ -1,8 +1,5 @@
 <div align="center">
 
-<!-- Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Maxim%20Dutruel&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Agent%20Builder%20%7C%20SaaS&descAlignY=58&descSize=18&animation=fadeIn" />
-
 </div>
 
 ## 🧠 Ce que je fais
