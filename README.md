@@ -79,8 +79,8 @@ Agent vocal intelligent capable de **répondre aux appels entrants** et de **gé
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-maximdutruel@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maximdutruel@gmail.com)
-[![WEBNOVATE](https://img.shields.io/badge/WEBNOVATE-Auto--Entrepreneur-0077B5?style=for-the-badge&logo=briefcase&logoColor=white)](mailto:maximdutruel@gmail.com)
+[![Email](https://img.shields.io/badge/Email-maximdutruel@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)]
+[![WEBNOVATE](https://img.shields.io/badge/WEBNOVATE-Auto--Entrepreneur-0077B5?style=for-the-badge&logo=briefcase&logoColor=white)]
 
 </div>
 
